@@ -1,2 +1,2 @@
 # TugasWebPraktikum
-Membuat CV Praktikum
+Tempat Upload Hasil Tugas Praktikum Maupun Pembelajaran Praktikum
